@@ -64,7 +64,7 @@ face global StatusLineInfo     rgb:5C8EC7@Default
 face global StatusLineValue    rgb:8BBE67@Default
 face global StatusCursor       rgb:1E2227,rgb:5CBE97
 face global Prompt             rgb:BB8E67
-face global MatchingChar       +b
+face global MatchingChar       +b@SecondaryCursorEol
 face global Whitespace         rgb:A0A4AA+f
 face global BufferPadding      rgb:A0A4AA
 face global WrapMarker         rgb:A0A4AA+f
